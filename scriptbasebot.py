@@ -11,7 +11,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import asyncio
 import datetime
 
-TOKEN = '8169029291:AAGgNhigcR2SkeFND9G6s_cZmAhBIA5QKFE'
+TOKEN = '8169029291:AAGO1a7CkYx0xnDGML_vq7Ug--mDdvMuSNc'
 CANAL_ID = -1002817510483
 GRUPO_ID = -1002646779589
 USER_ADMIN_ID = 1994617924  # Reemplazar con tu ID real
