@@ -1,5 +1,5 @@
-python-telegram-bot==20.6
-Flask==3.0.3
+python-telegram-bot==20.8
+quart==0.19.4
+hypercorn==0.16.0
+python-dotenv==1.0.1
 apscheduler==3.10.4
-python-dotenv
-hypercorn==0.14.0
